@@ -1,0 +1,9 @@
+{
+    "env":{
+        "DB_USER":"AayushChaudhari",
+        "DB_PASSWORD":"Mumbai123",
+        "DB_NAME":"mern",
+        "GOOGLE_API_KEY":"AIzaSyDh8GyWa-7EdSpDBD0Z5OW4RvgY9Yoe2RA",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}

@@ -2,3 +2,16 @@
 .env
 .env.production
 .DS_Store
+# Ignore backend/node_modules directory
+backend/node_modules/
+
+# Ignore frontend/node_modules directory
+frontend/node_modules/
+
+# Ignore .env.local files
+backend/.env.local
+frontend/.env.local
+
+# Ignore build directories
+backend/build/
+frontend/build/
